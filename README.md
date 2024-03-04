@@ -55,7 +55,7 @@
 1. **Clone this project using the command**
    
 ```dotnetcli
-git clone 
+git clone https://github.com/ArpitAggarwal10/Estate_App.git
 ```
 
 2. **Now install the necessasry packages using the command**
