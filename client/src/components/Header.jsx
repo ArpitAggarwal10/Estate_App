@@ -30,6 +30,10 @@ export default function Header() {
             <span className='text-slate-500'>Aggarwal</span>
             <span className='text-slate-700'>Estate</span>
           </h1>
+          <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
+            <span className='text-slate-700'>Developed By</span>
+            <span className='text-slate-500 ml-1'>Arpit Aggarwal</span>
+          </h1>
         </Link>
         <form
           onSubmit={handleSubmit}
